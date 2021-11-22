@@ -1,4 +1,4 @@
-Docker Ffmpeg Compiler 
+Docker Ffmpeg Compiler for AMR_NB ONLY
 ======================
 
 Docker Ffmpeg Compiler is a zero-set-up solution to install a fully featured ffmpeg binary on your linux system.
